@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farukumarx64
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning mobile development
-- 💞️ I’m looking to collaborate on flutter and front end web dev
+- 🌱 I’m currently a full-stack developer
+- 💞️ I’m looking to collaborate on full-stack projects
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/faruk-umar-224565194/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/farukumar_" target="_blank">Twitter</a>
 
 <!---
